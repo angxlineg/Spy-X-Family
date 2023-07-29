@@ -55,9 +55,6 @@ import javafx.scene.text.FontPosture;
 import javafx.scene.text.FontWeight;
 
 /*
- * ICS4U1 CPT: Spy X Family: Training Edition
- * Name: Angeline Sheeba Grace Garapati
- * Teacher: Mr. Conway
  * PROGRAM DESCRIPTION: The game is called Spy X Family: Training edition. It is a game that is consisted of two levels which trains the user to become recruited by a "spy agency". Once the program runs the poster of the game will be shown with
  * the start and the high score button. If the user clicks on the high score button then the alert will pop up with the top 10 high scores which they can see and when they are done they click the "ok" to exit the alert. Once they click on the start button
  * then an alert will pop up with loid asking for the user's name. If the user does not type in a name then their default name will be "A". Then, the user is introduced to the context of the game. An alert will pop up tell the user that their training will
